@@ -4,5 +4,6 @@ H1{font-size: 50px; text-align:center;background:#c3ebde ;}
 body{background:#26a5cc;}
 #imagem1{
     width:100%;
+    h1 {border:10px;padding:20px;}
 }
 
